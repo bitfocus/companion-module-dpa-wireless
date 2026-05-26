@@ -7,8 +7,8 @@
 	"description": "Control and monitor DPA wireless microphone systems via OSC over TCP",
 	"version": "0.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/lnswlrd/companion-module-dpa-wireless.git",
-	"bugs": "https://github.com/lnswlrd/companion-module-dpa-wireless/issues",
+	"repository": "git+https://github.com/bitfocus/companion-module-dpa-wireless.git",
+	"bugs": "https://github.com/bitfocus/companion-module-dpa-wireless/issues",
 	"maintainers": [
 		{
 			"name": "Linus Wileryd",

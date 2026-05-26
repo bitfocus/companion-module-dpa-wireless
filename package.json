@@ -16,7 +16,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/lnswlrd/companion-module-dpa-wireless.git"
+		"url": "git+https://github.com/bitfocus/companion-module-dpa-wireless.git"
 	},
 	"engines": {
 		"node": "^22.20",
