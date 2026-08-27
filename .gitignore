@@ -4,3 +4,4 @@ pkg/
 *.tgz
 *.tsbuildinfo
 .yarn/install-state.gz
+.DS_Store
